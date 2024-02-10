@@ -1,0 +1,23 @@
+:root {
+  --dark-grey-blue: #2B2D42;
+  --grey-blue: #8d99ae;
+  --white-blue: #edf2f4;
+  --pink-red : #EF233C ;
+  --red: #D90429;
+}
+
+h1, .h1{ font-size: 40px; font-weight: 900; color: var(--dark-grey-blue); }
+h2, .h2{ font-size: 34px; font-weight: 700; color: var(--dark-grey-blue); }
+h3, .h3{ font-size: 30px; font-weight: 600; color: var(--dark-grey-blue); }
+h4, .h4{ font-size: 28px; font-weight: 500; color: var(--dark-grey-blue); }
+h5, .h5{ font-size: 24px; font-weight: 300; color: var(--dark-grey-blue); }
+h6, .h6{ font-size: 20px; font-weight: 200; color: var(--dark-grey-blue); }
+
+/*--------------------------------------------------------- 
+# Styles Généraux 
+---------------------------------------------------------*/ 
+
+
+/*---------------------------------------------------------- 
+# Section Hero  
+----------------------------------------------------------*/ 
