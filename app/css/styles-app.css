@@ -20,4 +20,8 @@ h6, .h6{ font-size: 20px; font-weight: 200; color: var(--dark-grey-blue); }
   margin-top: 1rem;
 }
 
+.footer-text {
+  color: #EF233C;
+}
+
 /*----- Section Hero -----*/
